@@ -1,7 +1,7 @@
 # Rumor-Detection-Papers
 Papers for Rumor Detection( Fake news) 
 
-## Table of content
+## Table of contents
 ### 1.Survey
 
 ### 2.Analysis
